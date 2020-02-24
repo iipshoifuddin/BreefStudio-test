@@ -1,0 +1,1 @@
+SELECT COUNT(kelamin) From User where kelamin='pria' AND umur>35

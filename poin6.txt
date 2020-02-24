@@ -1,0 +1,28 @@
+* 25 Kuda Kecepatan berbeda
+* hanya dapat melihat kecepatan kuda dengan balapan
+* 1 balapan hanay boleh 5 kuda
+* dalam 1 balapn dapat mengetahui juara 1 - 5
+
+Berapa banyak balapan yang harus digelar untuk mencari 
+3 kuda tercepat ?
+
+Pertama, kelompokan kuda kedalam 5 group
+Kelompok A 5 Kuda
+Kelompok B 5 Kuda
+Kelompok C 5 Kuda
+Kelompok D 5 Kuda
+Kelompok E 5 Kuda
+
+Kedua, Atur balapan kuda sesuai dengan kelompok tersebut.
+
+Ketiga, Ambil Juara satu atau kuda paling cepat 
+dari tiap kelompok.
+
+Keempat, Lakukan balapan satu kali lagi, maka akan diketahui 
+juara 1 - 5.
+
+Dari balapan terahkirlah dapat diketahui 3 kuda tercepat.
+
+Pertanyaan : Berapa banyak balapan yang harus digelar untuk mencari 
+3 kuda tercepat ?
+Dari Penjelasan di atas, balapan harus dilakukan 6 Kali untuk melihat 3 kuda tercepat.
